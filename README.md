@@ -9,6 +9,9 @@ Skills: SQL 💾 | Excel & Charts 📊 | Data Cleaning & Analysis | Data Visuali
 Currently Learning: Python (especially Pandas & NumPy)
 
 Goal: Start small projects soon to apply what I learn and share results here
+Contact information:
+LinkedIn:https://www.linkedin.com/in/reem-yasser-49a57a264/
+Email:reemyasser0709@gmail.com
 <!--
 
 Here are some ideas to get you started:
