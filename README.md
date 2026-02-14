@@ -1,7 +1,15 @@
-## Hi there 👋
 
+Hi, I’m Reem 👋
+
+Aspiring Data Analyst | Learning Python, SQL & Data Visualization
+Curious about data, exploring patterns, and turning numbers into insights. Currently building skills and preparing for my first projects.
+
+Skills: SQL 💾 | Excel & Charts 📊 | Data Cleaning & Analysis | Data Visualization
+
+Currently Learning: Python (especially Pandas & NumPy)
+
+Goal: Start small projects soon to apply what I learn and share results here
 <!--
-**ReemYaser/ReemYaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
